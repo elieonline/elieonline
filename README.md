@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 [![Twitter: elie_apk](https://img.shields.io/twitter/follow/elie_apk?style=social)](https://twitter.com/elie_apk)
 [![GitHub elieonline](https://img.shields.io/github/followers/elieonline?label=follow&style=social)](https://github.com/elieonline)
 
-[![Elie's GitHub stats](https://github-readme-stats.vercel.app/api?username=elieonline)](https://github.com/elieonline/github-readme-stats)
+<br>
+[![Elie's GitHub stats](https://github-readme-stats.vercel.app/api?username=elieonline&count_private=true)](https://github.com/elieonline/github-readme-stats)
 
 ---
 <details open>
@@ -27,7 +28,7 @@ Here are some ideas to get you started:
 
 <p>
   <a href="https://github.com/elieonline">
-  <img height="220em" src = "https://github-readme-stats.vercel.app/api?username=elieonline&show_icons=true&theme=tokyonight&line_height=33&hide_border=true&count_private=true">
+  <img height="220em" src = "https://github-readme-stats.vercel.app/api?username=elieonline&count_private=true">
   </a>
   <a href="https://github.com/elieonline">
   <img height="220em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=elieonline&theme=tokyonight&hide_border=true&&count_private=true&include_all_commits=true">
