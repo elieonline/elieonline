@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <img height="220em" src = "https://github-readme-stats.vercel.app/api?username=elieonline&show_icons=true&theme=tokyonight&line_height=33&hide_border=true&count_private=true">
   </a>
   <a href="https://github.com/elieonline">
-  <img height="220em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=elieonline&theme=tokyonight&hide_border=true&&count_private=true&include_all_commits=true">
+  <img height="220em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=elieonline&theme=tokyonight&hide_border=true&&count_private=false&include_all_commits=true">
   </a>
 </p>
 </details>
