@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter](https://twitter.com/elie_apk) | [Facebook](https://www.facebook.com/dammy.elie) | [LinkedIn](https://www.linkedin.com/in/elijah-adeniyi-48477b157/)
 
 [![Profile Views](https://gpvc.arturio.dev/acctgen1)](https://twitter.com/elie_apk) 
-[![Github view](https://komarev.com/ghpvc/?username=elieonline&label=Github-Views&color=blue&style=plastic)](https://twitter.com/elie_apk)
-[![Twitter: elie_apk](https://img.shields.io/twitter/follow/elie_apk_?style=social)](https://twitter.com/elie_apk)
+[![Github view](https://komarev.com/ghpvc/?username=elieonline&label=Github-Views&color=blue&style=plastic)](https://github.com/elieonline)
+[![Twitter: elie_apk](https://img.shields.io/twitter/follow/elie_apk?style=social)](https://twitter.com/elie_apk)
 [![GitHub elieonline](https://img.shields.io/github/followers/elieonline?label=follow&style=social)](https://github.com/elieonline)
 
 ---
