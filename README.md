@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 [![Twitter: elie_apk](https://img.shields.io/twitter/follow/elie_apk?style=social)](https://twitter.com/elie_apk)
 [![GitHub elieonline](https://img.shields.io/github/followers/elieonline?label=follow&style=social)](https://github.com/elieonline)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elieonline&count_private=true)
-
 <br>
-
 <br>
 <hr>
 <p align = "center">
