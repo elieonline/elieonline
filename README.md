@@ -21,13 +21,14 @@ Here are some ideas to get you started:
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
-  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elieonline)](https://github.com/elieonline/github-readme-stats)
+
 <p>
   <a href="https://github.com/elieonline">
   <img height="220em" src = "https://github-readme-stats.vercel.app/api?username=elieonline&show_icons=true&theme=tokyonight&line_height=33&hide_border=true&count_private=true">
   </a>
   <a href="https://github.com/elieonline">
-  <img height="220em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=elieonline&theme=tokyonight&hide_border=true&&count_private=false&include_all_commits=true">
+  <img height="220em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=elieonline&theme=tokyonight&hide_border=true&&count_private=true&include_all_commits=true">
   </a>
 </p>
 </details>
