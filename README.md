@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 [![Twitter: elie_apk](https://img.shields.io/twitter/follow/elie_apk?style=social)](https://twitter.com/elie_apk)
 [![GitHub elieonline](https://img.shields.io/github/followers/elieonline?label=follow&style=social)](https://github.com/elieonline)
 
+[![Elie's GitHub stats](https://github-readme-stats.vercel.app/api?username=elieonline)](https://github.com/elieonline/github-readme-stats)
+
 ---
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elieonline)](https://github.com/elieonline/github-readme-stats)
+  
 
 <p>
   <a href="https://github.com/elieonline">
